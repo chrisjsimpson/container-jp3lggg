@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Oct 29 2025)
+
+#### ⚠️ Pushed to `main`
+
+- add g++ ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.1 (Sun Oct 26 2025)
 
 :tada: This release contains work from a new contributor! :tada:
